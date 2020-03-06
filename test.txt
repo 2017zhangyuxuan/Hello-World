@@ -3,3 +3,4 @@ test some
 next
 
 conflict 2
+test conflict 1
