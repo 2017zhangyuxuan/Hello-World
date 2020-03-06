@@ -3,3 +3,5 @@ test some
 next
 
 test conflict 1
+
+this is test 2
